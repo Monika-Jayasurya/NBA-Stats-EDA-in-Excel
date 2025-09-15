@@ -33,6 +33,9 @@ Lowest: Boston Celtics (15.57)
 📊 Data Visualization
 
 Player Distribution per Team – Bar chart of roster sizes.
+
+![Alt text]([image-url](https://github.com/Monika-Jayasurya/NBA-Stats-EDA-in-Excel/issues/1))
+
 Position Distribution – Count of Guards, Forwards, and Centers.
 Team Performance Comparison – Average PPG, RPG, APG across teams.
 Scoring Efficiency – Scatter plot of PPG vs MPG to analyze scoring impact relative to playing time.
