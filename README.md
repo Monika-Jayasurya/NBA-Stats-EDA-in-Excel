@@ -34,11 +34,11 @@ Usage Percentage (USG%)
 
 **1. Player Distribution per Team – Bar chart of roster sizes.**
 
-![![Team Distribution](https://github.com/user-attachments/assets/3c1541f8-b8a5-4615-9577-c0b27a33d5b7)
+![Team Distribution](https://github.com/user-attachments/assets/3c1541f8-b8a5-4615-9577-c0b27a33d5b7)
 
 **2. Position Distribution – Count of Guards, Forwards, and Centers.**
 
-!![Player Positions Count](https://github.com/user-attachments/assets/d92cabe3-3122-4390-a7ad-76f37eff3008)
+![Player Positions Count](https://github.com/user-attachments/assets/d92cabe3-3122-4390-a7ad-76f37eff3008)
 
 
 **3. Team Performance Comparison – Average PPG, RPG,APG across teams.**
@@ -65,11 +65,11 @@ Analyzed PPG, RPG, APG across age groups.
 * Top Combined Performer (P+R+A)
 > Nikola Jokić – 50.8 combined average (Points + Rebounds + Assists).
 
-4.** Top Players by Position (based on PPG)**
+4. ** Top Players by Position (based on PPG)**
 
-Center: Joel Embiid – 33 PPG
-Forward: LeBron James – 27.8 PPG
-Guard: Jalen Brunson – 32.4 PPG
+> **Center**: Joel Embiid – 33 PPG
+> **Forward**: LeBron James – 27.8 PPG
+ **Guard**: Jalen Brunson – 32.4 PPG
 
 🚀** Key Insights**
 
