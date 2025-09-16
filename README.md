@@ -33,6 +33,9 @@ Lowest: Boston Celtics (15.57)
 📊 Data Visualization
 
 Player Distribution per Team – Bar chart of roster sizes.
+
+![Screenshot 2025-09-15 171126](https://github.com/user-attachments/assets/3c1541f8-b8a5-4615-9577-c0b27a33d5b7)
+
 Position Distribution – Count of Guards, Forwards, and Centers.
 Team Performance Comparison – Average PPG, RPG, APG across teams.
 Scoring Efficiency – Scatter plot of PPG vs MPG to analyze scoring impact relative to playing time.
