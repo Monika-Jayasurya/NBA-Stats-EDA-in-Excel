@@ -32,13 +32,24 @@ Lowest: Boston Celtics (15.57)
 
 📊 Data Visualization
 
-Player Distribution per Team – Bar chart of roster sizes.
+**1. Player Distribution per Team – Bar chart of roster sizes.**
 
-![Screenshot 2025-09-15 171126](https://github.com/user-attachments/assets/3c1541f8-b8a5-4615-9577-c0b27a33d5b7)
+![![Team Distribution](https://github.com/user-attachments/assets/3c1541f8-b8a5-4615-9577-c0b27a33d5b7)
 
-Position Distribution – Count of Guards, Forwards, and Centers.
-Team Performance Comparison – Average PPG, RPG, APG across teams.
-Scoring Efficiency – Scatter plot of PPG vs MPG to analyze scoring impact relative to playing time.
+**2. Position Distribution – Count of Guards, Forwards, and Centers.**
+
+!![Player Positions Count](https://github.com/user-attachments/assets/d92cabe3-3122-4390-a7ad-76f37eff3008)
+
+
+**3. Team Performance Comparison – Average PPG, RPG,APG across teams.**
+
+![Average PPG, RPG, and APG across Teams](https://github.com/user-attachments/assets/683a0cfc-36b2-4007-b900-4bc00df76054)
+
+**4. Scoring Efficiency – Scatter plot of PPG vs MPG to analyze scoring impact relative to playing time.**
+
+![Scatter plot of Players](https://github.com/user-attachments/assets/4c263691-b6c8-4ffb-a0b0-157869b688c3)
+
+
 
 📈 Advanced Data Analytics
 
